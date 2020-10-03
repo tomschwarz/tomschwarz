@@ -14,6 +14,6 @@ Skills: C / C++ / PHP / JS / GNU+Linux
 
 <img src="https://static.fsf.org/nosvn/associate/crm/5002414.png" />
 
-I'm a member of the Free Software Foundation. Without GNU/Linux and all the great work from people all over the world producing free software, all my free software projects would not have been possible.
+I'm a member of the Free Software Foundation. Without GNU/Linux and all the great work from people all over the world producing free software, all my projects would not have been possible.
 
 Consider joining the FSF, [here is why](https://my.fsf.org/join?referrer=5002414).
