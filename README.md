@@ -8,3 +8,12 @@ Skills: C / C++ / PHP / JS / GNU+Linux
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tomschwarz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tomschwarz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tomschwarz.info)  
 
+----
+
+#### Free Software Foundation
+
+<img src="https://static.fsf.org/nosvn/associate/crm/5002414.png" />
+
+I'm a member of the Free Software Foundation. Without GNU/Linux and all the great work from people all over the world producing free software, all my free software projects would not have been possible.
+
+Consider joining the FSF, [here is why](https://my.fsf.org/join?referrer=5002414).
