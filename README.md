@@ -4,9 +4,7 @@ I work full time as a software craftsman. In my spare time I love to read books 
 
 I almost forgot: a well brewed coffee is a poem to me.
 
-Skills: C / C++ / PHP / JS / PYTHON / BASH / ASSEMBLER / GNU+Linux
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tomschwarz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tomschwarz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tomschwarz.info)  
+Skills: C / C++ / PHP / JS / PYTHON / BASH / ASSEMBLER / GNU+Linux 
 
 ----
 
