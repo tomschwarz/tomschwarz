@@ -6,6 +6,8 @@ I almost forgot: a well brewed coffee is a poem to me.
 
 Skills: C / C++ / PHP / JS / PYTHON / BASH / ASSEMBLER / GNU+Linux 
 
+[![qwertty](https://www.hackthebox.eu/badge/image/432703)](https://www.hackthebox.eu/home/users/profile/432703)
+
 ----
 
 #### Free Software Foundation
